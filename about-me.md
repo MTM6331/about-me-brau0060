@@ -1,4 +1,4 @@
-# What I Did ThisSummer
+# What I Did This Summer
 ## By Alexander Braun
 
-Over the sumer I made a few videos and developed my website.
+Over the summer I made a few videos and developed my website.
